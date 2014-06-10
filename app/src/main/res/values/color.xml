@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="about_color">#ffffe2be</color>
+    <color name="add_fruits_color">#ffffc1fa</color>
+    <color name="view_fruits_color">#ffe3ff9c</color>
+    <color name="modify_expiry_color">#ffc3fff7</color>
+</resources>

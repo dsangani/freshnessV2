@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="about_text">FreshnessTracker v0.1</string>
+    <string name="action_add_fruits">Add Fruits</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_fruit_button_text">DONE</string>
+    <string name="add_fruit_date_picker">Select the Purchase Date</string>
+    <string name="add_fruit_spinner">Pick a Fruit</string>
+    <string name="app_name">FreshnessTracker</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="title_section1">View Fruits</string>
+    <string name="title_section2">Modify Expiry</string>
+    <string name="title_section3">About</string>
+
+    <string-array name="fruits_array">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Grapes</item>
+        <item>Orange</item>
+        <item>Watermelon</item>
+    </string-array>
+
+</resources>
