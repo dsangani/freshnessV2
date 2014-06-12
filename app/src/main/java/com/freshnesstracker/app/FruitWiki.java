@@ -11,7 +11,7 @@ import static com.freshnesstracker.app.R.layout.fragment_view_fruits;
 /**
  * Created by Sakura on 5/31/14.
  */
-public class ViewFruitsFragment extends Fragment {
+public class FruitWiki extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
